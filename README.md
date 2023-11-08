@@ -20,4 +20,4 @@ Escribimos el siguiente comando cuando estamos en dentro de la carpeta del repos
 
 # Para desactivar el enviroment
 
-   conda deactivate newenv
+   conda deactivate
