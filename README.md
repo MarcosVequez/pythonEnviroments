@@ -1,23 +1,29 @@
-# Para clonar el repositorio
+> #### Para clonar el repositorio
 
-git clone https://github.com/MarcosVequez/pythonEnviroments.git
+> - Ejecutamos el siguiente comando donde queremos clonar el repositorio:
 
-# Para crear el enviroment de conda 
+>> - **git clone https://github.com/MarcosVequez/pythonEnviroments.git**
 
-Dentro de la carpeta del repositorio clonado:
+> #### Para crear el enviroment de conda 
 
-   conda env create --file newenv_config.yml
+> - Dentro de la carpeta del repositorio clonado:
 
-# Para activar el enviroment
+>> - **conda env create --file newenv_config.yml**
 
-   conda activate newenv
+> #### Para activar el enviroment
 
-# Para ejecutar script_sample.py
+> - Ejecutamos el siguiente comando:
 
-Escribimos el siguiente comando cuando estamos en dentro de la carpeta del repositorio
+>> - **conda activate newenv**
 
-   python3 script_sample.py
+> #### Para ejecutar script_sample.py
 
-# Para desactivar el enviroment
+> - Escribimos el siguiente comando cuando estamos en dentro de la carpeta del repositorio:
 
-   conda deactivate
+>> - **python3 script_sample.py**
+
+> #### Para desactivar el enviroment
+
+> - Escribimos el siguiente comando:
+
+>> - **conda deactivate**
